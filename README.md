@@ -1,2 +1,2 @@
-# Linktree clone built using HTML + CSS + JavaScript
-# My-Personal-Link-Tree-Clone
+# Linktree clone
+## HTML + CSS + JavaScript
